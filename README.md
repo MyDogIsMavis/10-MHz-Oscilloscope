@@ -163,3 +163,16 @@ The oscilloscope is operated using four buttons:
 - **DOWN / −** — decreases the selected value
 
 The MCU also controls the relay-based input attenuation ranges (**×1 / ×10 / ×20**).
+
+### PCB Layer Stack
+
+<p align="center">
+  <img src="images/pcb_layers.jpg" width="900" alt="4-layer PCB stackup">
+</p>
+
+**Layer order:**
+
+- Top — signal and component layer
+- GND — dedicated ground plane
+- Power — power distribution layer
+- Bottom — signal and component layer
