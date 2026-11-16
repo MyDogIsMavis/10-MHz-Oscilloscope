@@ -11,8 +11,13 @@ parallel ADC acquisition and an SPI TFT display.
   <img src="images/3d_top.png" width="900" alt="3D view of Top side PCB">
 </p>
 <p align="center">
+Figure 1. 3D view of Top side PCB </p>
+
+<p align="center">
   <img src="images/3d_bottom.png" width="900" alt="3D view of Bottom side PCB">
 </p>
+<p align="center">
+Figure 2. 3D view of Bottom side PCB </p>
 
 ## Overview
 
@@ -65,6 +70,8 @@ The analog signal path consists of the input connector, relay-controlled attenua
 <p align="center">
   <img src="images/diagram.png" width="900" alt="High-level functional block diagram">
 </p>
+<p align="center">
+Figure 3. High-level functional block diagram </p>
 
 ## Circuit Description
 
@@ -164,11 +171,13 @@ The oscilloscope is operated using four buttons:
 
 The MCU also controls the relay-based input attenuation ranges (**×1 / ×10 / ×20**).
 
-### PCB Layer Stack
+## PCB Layer Stack
 
 <p align="center">
   <img src="images/pcb_layers.jpg" width="900" alt="4-layer PCB stackup">
 </p>
+<p align="center">
+Figure 4. 4-layer PCB stackup </p>
 
 **Layer order:**
 
